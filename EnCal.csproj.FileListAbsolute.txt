@@ -1,0 +1,10 @@
+C:\Users\rbmke\Desktop\EnCal\bin\Debug\EnCal.exe.config
+C:\Users\rbmke\Desktop\EnCal\bin\Debug\EnCal.exe
+C:\Users\rbmke\Desktop\EnCal\bin\Debug\EnCal.pdb
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.csproj.AssemblyReference.cache
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.Form1.resources
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.Properties.Resources.resources
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.csproj.GenerateResource.cache
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.csproj.CoreCompileInputs.cache
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.exe
+C:\Users\rbmke\Desktop\EnCal\obj\Debug\EnCal.pdb
